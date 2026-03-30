@@ -3,7 +3,7 @@
 ## Project Description
 This project is an interactive voice visualization interface built using p5.js. The application captures microphone input and analyzes sound characteristics such as volume and frequency spectrum. These values are translated into dynamic visual shapes that respond in real time to human speech or other sounds.
 
-The goal of this project is to explore parametric media systems where human input directly influences visual output. Instead of using manual controls like sliders, the user's voice becomes the main interface that generates visual changes.
+The goal of this project is to explore parametric media systems through human input directly influences visual output. Instead of using manual controls like sliders, the user's voice becomes the main interface that generates visual changes.
 
 ## How It Works
 The program uses microphone input to analyze audio data and generate visual elements on the screen.
